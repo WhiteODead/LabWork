@@ -1,0 +1,28 @@
+C:\Users\WhiteODead\source\repos\Лабораторная работа 13\bin\Debug\netcoreapp3.1\Лабораторная работа 13.exe
+C:\Users\WhiteODead\source\repos\Лабораторная работа 13\bin\Debug\netcoreapp3.1\Лабораторная работа 13.deps.json
+C:\Users\WhiteODead\source\repos\Лабораторная работа 13\bin\Debug\netcoreapp3.1\Лабораторная работа 13.runtimeconfig.json
+C:\Users\WhiteODead\source\repos\Лабораторная работа 13\bin\Debug\netcoreapp3.1\Лабораторная работа 13.runtimeconfig.dev.json
+C:\Users\WhiteODead\source\repos\Лабораторная работа 13\bin\Debug\netcoreapp3.1\Лабораторная работа 13.dll
+C:\Users\WhiteODead\source\repos\Лабораторная работа 13\bin\Debug\netcoreapp3.1\Лабораторная работа 13.pdb
+C:\Users\WhiteODead\source\repos\Лабораторная работа 13\obj\Debug\netcoreapp3.1\Лабораторная работа 13.csproj.AssemblyReference.cache
+C:\Users\WhiteODead\source\repos\Лабораторная работа 13\obj\Debug\netcoreapp3.1\Лабораторная работа 13.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\WhiteODead\source\repos\Лабораторная работа 13\obj\Debug\netcoreapp3.1\Лабораторная работа 13.AssemblyInfoInputs.cache
+C:\Users\WhiteODead\source\repos\Лабораторная работа 13\obj\Debug\netcoreapp3.1\Лабораторная работа 13.AssemblyInfo.cs
+C:\Users\WhiteODead\source\repos\Лабораторная работа 13\obj\Debug\netcoreapp3.1\Лабораторная работа 13.csproj.CoreCompileInputs.cache
+C:\Users\WhiteODead\source\repos\Лабораторная работа 13\obj\Debug\netcoreapp3.1\Лабораторная работа 13.dll
+C:\Users\WhiteODead\source\repos\Лабораторная работа 13\obj\Debug\netcoreapp3.1\Лабораторная работа 13.pdb
+C:\Users\WhiteODead\source\repos\Лабораторная работа 13\obj\Debug\netcoreapp3.1\Лабораторная работа 13.genruntimeconfig.cache
+D:\Университет\Объектно-ориентированное программирование\Лабораторные работы\Лабораторная работа 13\bin\Debug\netcoreapp3.1\Лабораторная работа 13.exe
+D:\Университет\Объектно-ориентированное программирование\Лабораторные работы\Лабораторная работа 13\bin\Debug\netcoreapp3.1\Лабораторная работа 13.deps.json
+D:\Университет\Объектно-ориентированное программирование\Лабораторные работы\Лабораторная работа 13\bin\Debug\netcoreapp3.1\Лабораторная работа 13.runtimeconfig.json
+D:\Университет\Объектно-ориентированное программирование\Лабораторные работы\Лабораторная работа 13\bin\Debug\netcoreapp3.1\Лабораторная работа 13.runtimeconfig.dev.json
+D:\Университет\Объектно-ориентированное программирование\Лабораторные работы\Лабораторная работа 13\bin\Debug\netcoreapp3.1\Лабораторная работа 13.dll
+D:\Университет\Объектно-ориентированное программирование\Лабораторные работы\Лабораторная работа 13\bin\Debug\netcoreapp3.1\Лабораторная работа 13.pdb
+D:\Университет\Объектно-ориентированное программирование\Лабораторные работы\Лабораторная работа 13\obj\Debug\netcoreapp3.1\Лабораторная работа 13.csproj.AssemblyReference.cache
+D:\Университет\Объектно-ориентированное программирование\Лабораторные работы\Лабораторная работа 13\obj\Debug\netcoreapp3.1\Лабораторная работа 13.GeneratedMSBuildEditorConfig.editorconfig
+D:\Университет\Объектно-ориентированное программирование\Лабораторные работы\Лабораторная работа 13\obj\Debug\netcoreapp3.1\Лабораторная работа 13.AssemblyInfoInputs.cache
+D:\Университет\Объектно-ориентированное программирование\Лабораторные работы\Лабораторная работа 13\obj\Debug\netcoreapp3.1\Лабораторная работа 13.AssemblyInfo.cs
+D:\Университет\Объектно-ориентированное программирование\Лабораторные работы\Лабораторная работа 13\obj\Debug\netcoreapp3.1\Лабораторная работа 13.csproj.CoreCompileInputs.cache
+D:\Университет\Объектно-ориентированное программирование\Лабораторные работы\Лабораторная работа 13\obj\Debug\netcoreapp3.1\Лабораторная работа 13.dll
+D:\Университет\Объектно-ориентированное программирование\Лабораторные работы\Лабораторная работа 13\obj\Debug\netcoreapp3.1\Лабораторная работа 13.pdb
+D:\Университет\Объектно-ориентированное программирование\Лабораторные работы\Лабораторная работа 13\obj\Debug\netcoreapp3.1\Лабораторная работа 13.genruntimeconfig.cache

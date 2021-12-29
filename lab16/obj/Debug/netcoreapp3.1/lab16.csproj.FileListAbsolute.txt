@@ -1,0 +1,40 @@
+C:\Users\alina\Desktop\lab16\bin\Debug\netcoreapp3.1\lab16.exe
+C:\Users\alina\Desktop\lab16\bin\Debug\netcoreapp3.1\lab16.deps.json
+C:\Users\alina\Desktop\lab16\bin\Debug\netcoreapp3.1\lab16.runtimeconfig.json
+C:\Users\alina\Desktop\lab16\bin\Debug\netcoreapp3.1\lab16.runtimeconfig.dev.json
+C:\Users\alina\Desktop\lab16\bin\Debug\netcoreapp3.1\lab16.dll
+C:\Users\alina\Desktop\lab16\bin\Debug\netcoreapp3.1\lab16.pdb
+C:\Users\alina\Desktop\lab16\obj\Debug\netcoreapp3.1\lab16.csprojAssemblyReference.cache
+C:\Users\alina\Desktop\lab16\obj\Debug\netcoreapp3.1\lab16.AssemblyInfoInputs.cache
+C:\Users\alina\Desktop\lab16\obj\Debug\netcoreapp3.1\lab16.AssemblyInfo.cs
+C:\Users\alina\Desktop\lab16\obj\Debug\netcoreapp3.1\lab16.csproj.CoreCompileInputs.cache
+C:\Users\alina\Desktop\lab16\obj\Debug\netcoreapp3.1\lab16.dll
+C:\Users\alina\Desktop\lab16\obj\Debug\netcoreapp3.1\lab16.pdb
+C:\Users\alina\Desktop\lab16\obj\Debug\netcoreapp3.1\lab16.genruntimeconfig.cache
+D:\ФИТ\2ой курс\ООП\Лабораторные\lab16\bin\Debug\netcoreapp3.1\lab16.exe
+D:\ФИТ\2ой курс\ООП\Лабораторные\lab16\bin\Debug\netcoreapp3.1\lab16.deps.json
+D:\ФИТ\2ой курс\ООП\Лабораторные\lab16\bin\Debug\netcoreapp3.1\lab16.runtimeconfig.json
+D:\ФИТ\2ой курс\ООП\Лабораторные\lab16\bin\Debug\netcoreapp3.1\lab16.runtimeconfig.dev.json
+D:\ФИТ\2ой курс\ООП\Лабораторные\lab16\bin\Debug\netcoreapp3.1\lab16.dll
+D:\ФИТ\2ой курс\ООП\Лабораторные\lab16\bin\Debug\netcoreapp3.1\lab16.pdb
+D:\ФИТ\2ой курс\ООП\Лабораторные\lab16\obj\Debug\netcoreapp3.1\lab16.csprojAssemblyReference.cache
+D:\ФИТ\2ой курс\ООП\Лабораторные\lab16\obj\Debug\netcoreapp3.1\lab16.AssemblyInfoInputs.cache
+D:\ФИТ\2ой курс\ООП\Лабораторные\lab16\obj\Debug\netcoreapp3.1\lab16.AssemblyInfo.cs
+D:\ФИТ\2ой курс\ООП\Лабораторные\lab16\obj\Debug\netcoreapp3.1\lab16.csproj.CoreCompileInputs.cache
+D:\ФИТ\2ой курс\ООП\Лабораторные\lab16\obj\Debug\netcoreapp3.1\lab16.dll
+D:\ФИТ\2ой курс\ООП\Лабораторные\lab16\obj\Debug\netcoreapp3.1\lab16.pdb
+D:\ФИТ\2ой курс\ООП\Лабораторные\lab16\obj\Debug\netcoreapp3.1\lab16.genruntimeconfig.cache
+D:\Университет\Объектно-ориентированное программирование\Лабораторные работы\lab16\bin\Debug\netcoreapp3.1\lab16.exe
+D:\Университет\Объектно-ориентированное программирование\Лабораторные работы\lab16\bin\Debug\netcoreapp3.1\lab16.deps.json
+D:\Университет\Объектно-ориентированное программирование\Лабораторные работы\lab16\bin\Debug\netcoreapp3.1\lab16.runtimeconfig.json
+D:\Университет\Объектно-ориентированное программирование\Лабораторные работы\lab16\bin\Debug\netcoreapp3.1\lab16.runtimeconfig.dev.json
+D:\Университет\Объектно-ориентированное программирование\Лабораторные работы\lab16\bin\Debug\netcoreapp3.1\lab16.dll
+D:\Университет\Объектно-ориентированное программирование\Лабораторные работы\lab16\bin\Debug\netcoreapp3.1\lab16.pdb
+D:\Университет\Объектно-ориентированное программирование\Лабораторные работы\lab16\obj\Debug\netcoreapp3.1\lab16.csproj.AssemblyReference.cache
+D:\Университет\Объектно-ориентированное программирование\Лабораторные работы\lab16\obj\Debug\netcoreapp3.1\lab16.GeneratedMSBuildEditorConfig.editorconfig
+D:\Университет\Объектно-ориентированное программирование\Лабораторные работы\lab16\obj\Debug\netcoreapp3.1\lab16.AssemblyInfoInputs.cache
+D:\Университет\Объектно-ориентированное программирование\Лабораторные работы\lab16\obj\Debug\netcoreapp3.1\lab16.AssemblyInfo.cs
+D:\Университет\Объектно-ориентированное программирование\Лабораторные работы\lab16\obj\Debug\netcoreapp3.1\lab16.csproj.CoreCompileInputs.cache
+D:\Университет\Объектно-ориентированное программирование\Лабораторные работы\lab16\obj\Debug\netcoreapp3.1\lab16.dll
+D:\Университет\Объектно-ориентированное программирование\Лабораторные работы\lab16\obj\Debug\netcoreapp3.1\lab16.pdb
+D:\Университет\Объектно-ориентированное программирование\Лабораторные работы\lab16\obj\Debug\netcoreapp3.1\lab16.genruntimeconfig.cache

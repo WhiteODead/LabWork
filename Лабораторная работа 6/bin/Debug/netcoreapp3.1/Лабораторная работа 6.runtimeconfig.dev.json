@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\WhiteODead\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\WhiteODead\\.nuget\\packages"
+    ]
+  }
+}
